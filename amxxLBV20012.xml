@@ -2,13 +2,13 @@
 <manifest>
   <remote fetch="https://github.com/ADVANTECH-Corp" name="meta-advantech2"/>
   <remote fetch="http://arago-project.org/git" name="meta-arago"/>
-  <remote fetch="git://github.com/OSSystems" name="meta-browser"/>
+  <remote fetch="https://github.com/OSSystems" name="meta-browser"/>
   <remote fetch="https://git.linaro.org/openembedded" name="meta-linaro"/>
   <remote fetch="http://arago-project.org/git/projects" name="meta-processor-sdk"/>
-  <remote fetch="git://github.com/meta-qt5" name="meta-qt5"/>
+  <remote fetch="https://github.com/meta-qt5" name="meta-qt5"/>
   <remote fetch="https://github.com/bmwcarit" name="meta-ros"/>
-  <remote fetch="git://git.openembedded.org" name="openembedded"/>
-  <remote fetch="git://git.yoctoproject.org" name="yocto"/>
+  <remote fetch="https://git.openembedded.org" name="openembedded"/>
+  <remote fetch="https://git.yoctoproject.org" name="yocto"/>
   
   <default sync-j="2"/>
   
